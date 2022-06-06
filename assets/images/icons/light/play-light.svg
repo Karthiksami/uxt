@@ -1,0 +1,8 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 82 82">
+  <title>play-light01</title>
+  <g>
+    <path d="M41.5,82A40.5,40.5,0,1,0,1,41.5,40.5,40.5,0,0,0,41.5,82Z" transform="translate(-0.5 -0.5)" fill="#fff"/>
+    <path d="M41.5,82A40.5,40.5,0,1,0,1,41.5,40.5,40.5,0,0,0,41.5,82Z" transform="translate(-0.5 -0.5)" fill="none" stroke="#d5d5d5"/>
+  </g>
+  <path d="M28,56.73l.22-27.52a4.33,4.33,0,0,1,6.33-3.72L61.66,39.32a4.18,4.18,0,0,1,0,7.51L34.3,60.52h0a4.33,4.33,0,0,1-5.82-1.85A4.25,4.25,0,0,1,28,56.73Z" transform="translate(-0.5 -0.5)" fill="#0045e2" fill-rule="evenodd"/>
+</svg>
